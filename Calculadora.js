@@ -1,3 +1,5 @@
+//comentário
+
 class Calculadora {
 
     #screen;
